@@ -19,7 +19,7 @@ body{
 .column {
      font-size: 1rem;
      display: inline-block;
-     width: 25%;
+     width: 33.33%;
      padding: 1rem 2rem;
      text-align: center;
      vertical-align: top;
@@ -36,5 +36,10 @@ body{
      color:white;
      text-align: center;
      padding: 1rem 0;
+ }
+
+ .column >img{
+    width: 100%;
+    height:auto;
  }
 
